@@ -8,7 +8,7 @@ from psychopy.hardware.keyboard import Keyboard
 #PARAMETERS
 angles = [0, 50, 100, 150]
 tap_keys_right_handers = ['z', 'x', 'c', 'v']
-tap_keys_left_handers  = ['m', ',', '.', '/']
+tap_keys_left_handers  = ['/', '.', ',', 'm']
 n_practice = 8
 n_trials_per_angle = 20
 fixation_dur = 0.5
