@@ -48,8 +48,8 @@ Specifically:
 - 20 trials per angle per condition = 80 trials per block = 160 experimental trials total
 
 **Tapping sequence:**
-- Right-handed participants: Z -> X -> C -> V (left/non-dominant hand)
-- Left-handed participants: M -> , -> . -> / (right/non-dominant hand)
+- Right-handed participants: Z -> X -> C -> V (left to right, left/non-dominant hand)
+- Left-handed participants: / -> . -> , -> M (right to left, right/non-dominant hand)
 
 Tapping keys are assigned automatically based on handedness entered in the dialog box. This ensures the non-dominant hand is always used for tapping, making the task equally fair for left- and right-handed participants. The key positions are mirror images on the keyboard, ensuring equivalent difficulty for both groups.
 
