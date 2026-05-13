@@ -93,8 +93,6 @@ Files without `_R` in the name are same-object pairs. Files with `_R` are mirror
 
 ## How to Run
 
-Install PsychoPy from https://www.psychopy.org/download.html
-
 Open `mental_rotation_experiment.py` in the PsychoPy Coder and click Run. A dialog box will appear asking for Participant ID, Age, Gender, and Handedness. The experiment will then run automatically.
 
 **Response keys:**
